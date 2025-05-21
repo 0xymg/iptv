@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1" group-title="TR", TRT 1
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7fdlzpxmxbj8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" group-title="TR", Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8
