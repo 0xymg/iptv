@@ -13,31 +13,28 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1747882579&st=8o1oyCyEePIjMGkI7cRrww&sid=7fdm7pr2mufy&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:-1 tvg-id="now.tr" tvg-name="NOW" group-title="TR", NOW
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_1080p.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1747894849&st=bTCF412x1FAUezLdHsyRrA
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV" group-title="TR", Star TV
-https://dogus.daioncdn.net/startv/startv_1080p.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7fdmbe2zv3af&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" group-title="TR", TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7fdmclz24ttz&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT Spor" group-title="TR", TRT Spor
-https://trt.daioncdn.net/trtspor/master_1080p.m3u8
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=7fdmduhrjmis&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT Haber" group-title="TR", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" group-title="TR", NTV
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-name="Habertürk" group-title="TR", Haberturk
-http://YOUR_LINK_HERE.m3u8
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=7fdmh6dwb7mh&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
 #EXTINF:-1 tvg-id="cnnTurk.tr" tvg-name="CNN Türk" group-title="TR", CNN Turk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV" group-title="TR", Beyaz TV
-https://ciner.daioncdn.net/haberturktv/haberturktv_1080p
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=qnm2Hkn16ileqgqBHdDC8w&e=1747848374
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-name="Halk Tv" group-title="TR", HalkTV
-https://halktv.daioncdn.net/halktv/halktv_720p.m3u8
+https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=7fdmjkntgyy0&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
