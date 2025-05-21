@@ -4,13 +4,13 @@
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7fdlzpxmxbj8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D" group-title="TR", Kanal D
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7fdm4u8b5rsc&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV" group-title="TR", Show TV
-https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7fdm6fxsd249&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" group-title="TR", ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8
+https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1747882579&st=8o1oyCyEePIjMGkI7cRrww&sid=7fdm7pr2mufy&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:-1 tvg-id="now.tr" tvg-name="NOW" group-title="TR", NOW
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_1080p.m3u8
