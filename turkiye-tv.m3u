@@ -1,0 +1,87 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/trology85/iptv-epg-turkey/main/epg/turksat_epg.xml" x-tvg-url="https://raw.githubusercontent.com/trology85/iptv-epg-turkey/main/epg/turksat_epg.xml"
+
+# ---------------------------------------------------------------------------
+# Turkiye - 24 kanal  |  EPG: turksat_epg.xml (gunluk guncellenir, 03:00 UTC)
+# tvg-id degerleri bu EPG dosyasindaki <channel id> ile birebir eslesiyor.
+# [OK]  = bu oturumda 200 donup gercek playlist verdigi dogrulandi
+# [?]   = kaynak listeden alindi, CORS yuzunden dogrulanamadi - oynaticida dene
+# [TKN] = senin listenden geldi, URL'de suresi dolabilen token var
+# ---------------------------------------------------------------------------
+
+# ======================= TR / ULUSAL =======================
+
+#EXTINF:-1 tvg-id="TRT.1" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR Ulusal", TRT 1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7fdlzpxmxbj8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 tvg-id="Kanal.D" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR Ulusal", Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7fdm4u8b5rsc&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 tvg-id="Show" tvg-name="Show TV" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR Ulusal", Show TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7fdm6fxsd249&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 tvg-id="Atv" tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR Ulusal", ATV
+https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1747882579&st=8o1oyCyEePIjMGkI7cRrww&sid=7fdm7pr2mufy&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+#EXTINF:-1 tvg-id="NOW" tvg-name="NOW" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="TR Ulusal", NOW
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1747894849&st=bTCF412x1FAUezLdHsyRrA
+
+#EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR Ulusal", Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7fdmbe2zv3af&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 tvg-id="TV.8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TR Ulusal", TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7fdmclz24ttz&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="Kanal.7" tvg-name="Kanal 7" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR Ulusal", Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="a2" tvg-name="a2" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="TR Ulusal", a2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TR Ulusal", 360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+# ======================= TR / HABER =======================
+
+#EXTINF:-1 tvg-id="TRT.Haber" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="TR Haber", TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" group-title="TR Haber", NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="HABERTÜRK.TV" tvg-name="Haberturk" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="TR Haber", Haberturk
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=7fdmh6dwb7mh&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 tvg-id="CNN.Türk" tvg-name="CNN Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png" group-title="TR Haber", CNN Turk
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=qnm2Hkn16ileqgqBHdDC8w&e=1747848374
+
+#EXTINF:-1 tvg-id="Halk.TV" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="TR Haber", Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="A.Haber" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="TR Haber", A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+# ======================= TR / SPOR & BELGESEL =======================
+
+#EXTINF:-1 tvg-id="TRT.Spor" tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="TR Spor", TRT Spor
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=7fdmduhrjmis&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
+
+#EXTINF:-1 tvg-id="A.Spor" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TR Spor", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="TRT.Belgesel" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="TR Belgesel", TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+# ---------------------------------------------------------------------------
+# ALTERNATIF ADRESLER - ustteki karsiligi calismazsa satiri degistir
+#
+# ATV 1080p  : https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+# NOW        : https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+# TV8        : https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+# Kanal D    : https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+# TRT 1      : https://tv-trt1.medya.trt.com.tr/master.m3u8
+#
+# BULUNAMAYANLAR
+# TV2, TLC, DMAX : acik kaynakli calisan HLS adresi yok
+# SZC TV, TV 100 : kendi sitelerinde YouTube canli yayini gomulu, HLS adresi yok
+# Beyaz TV       : atlandi
+# ---------------------------------------------------------------------------
